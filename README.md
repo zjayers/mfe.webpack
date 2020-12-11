@@ -1,8 +1,7 @@
 # Mfe Webpack
-[![GitHub Release](https://img.shields.io/github/release/zjayers/mfe.webpack.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/mfe.webpack.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/mfe.webpack.svg?style=flat)](https://github.com/zjayers/mfe.webpack/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/mfe.webpack.svg?style=flat)](https://github.com/zjayers/mfe.webpack/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/mfe.webpack.svg?maxAge=25000)](https://github.com/zjayers/mfe.webpack/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/mfe.webpack/blob/master/LICENSEs)
 
 ## Description
 
